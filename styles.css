@@ -109,3 +109,228 @@ header {
 .intro:hover {
     box-shadow: 0 0 50px rgb(255, 254, 254);
 }
+
+
+
+.intro__image {
+    box-sizing: border-box;
+    height: 600px;
+    background-color: #ffffff;
+    -webkit-transition: height 0.5s;
+    transition: height 0.5s;
+    width: 100%;
+    align-items: center;
+    overflow: hidden;
+    justify-content: center;
+    display: flex;
+    margin: 0;
+}
+
+.intro__image img {
+    width: 100%;
+    display: block;
+    opacity: 1;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-transition: opacity 0.5s, -webkit-transform 0.5s;
+    transition: opacity 0.5s, -webkit-transform 0.5s;
+    transition: opacity 0.5s, transform 0.5s;
+    transition: opacity 0.5s, transform 0.5s, -webkit-transform 0.5s;
+    filter: brightness(50%);
+}
+
+.intro:hover .intro__image {
+    height: 135px;
+}
+
+.intro:hover .intro__image img {
+    opacity: 0.7;
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
+
+/**
+* INTRO_BODY
+**/
+
+.intro__body {
+    position: relative;
+    height: 100%;
+    padding: 0;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: rgb(76, 76, 180);
+    -webkit-transition: height 0.5s;
+    transition: height 0.5s;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.card  {
+  margin-top: 200px;
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 250px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: #ffffff;
+}
+
+.card1 {
+  margin-top: 200px;
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 250px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.card2 {
+  margin-top: 200px;
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 250px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.card3 {
+  margin-top: 200px;
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 250px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.heading{
+  height: 80px;
+  background-color: rgb(4, 26, 84);
+  color: rgb(0, 0, 0);
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading h1{
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: rgb(4, 26, 84);
+  color: rgb(255, 255, 255);
+}
+
+.heading1 h1{
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: rgb(4, 26, 84);
+  color: rgb(255, 255, 255);
+}
+.heading2 h1{
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: rgb(4, 26, 84);
+  color: rgb(255, 255, 255);
+}
+.heading3 h1{
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: rgb(4, 26, 84);
+  color: rgb(255, 255, 255);
+}
+
+
+.heading1{
+  height: 80px;
+  background-color: rgb(4, 26, 84);
+  color: rgb(0, 0, 0);
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading2{
+  height: 80px;
+  background-color: rgb(4, 26, 84);
+  color: rgb(0, 0, 0);
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading3{
+  height: 80px;
+  background-color: rgb(4, 26, 84);
+  color: rgb(0, 0, 0);
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container p{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container1 p{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container2 p{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container3 p{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+  padding: 15px 16px;
+}
+
+.container1 {
+  padding: 15px 16px;
+}
+
+.container2 {
+  padding: 15px 16px;
+}
+
+.container3 {
+  padding: 15px 16px;
+}
+
+
+.intro:hover .intro__body {
+    height: 300px;
+}
+
+.first{
+  position: relative;
+  top: 350px;
+}
+
+
+
+
+
+
+
+
