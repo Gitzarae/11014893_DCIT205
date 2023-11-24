@@ -457,3 +457,116 @@ article:has(:hover, :focus) {
 
 
 
+
+.short_course h1{
+  margin-top: 0;
+  padding-top: 0;
+  color: rgb(4, 26, 84);
+  line-height: 50px;
+  font-size: 30px;
+  background-color: #ffffff;
+  text-align: center;
+  top: 720px;
+  position: relative;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  .short_course p{
+  top: 718px;
+  margin-top: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  color: rgb(0, 0, 0);
+  line-height: 15px;
+  font-size: 15px;
+  background-color: rgb(255, 254, 254);
+  text-align: center;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+  margin-left: 25%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+
+
+
+
+
+
+
+
+  .short-courses-format-container {
+    position: relative;
+    top: 720px;
+    width: 1142px;
+    margin: 0 auto;
+  }
+  
+ 
+  .short-courses_box { 
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    text-align: center;
+    text-decoration: none;
+    padding: 30px 0;
+    background-color: #ffffff;
+  }
+
+
+  .short-courses_item {
+    -ms-flex-preferred-size: calc(33.33333% - 30px);
+    flex-basis: calc(33.33333% - 30px);
+    margin: 0 15px 30px;
+    overflow: hidden;
+    border-radius: 0px;
+  }
+
+  .short-courses-item_link {
+    display: block;
+    overflow: hidden;
+    position: relative;
+    text-decoration: none;
+  }
+
+  
+  .short-courses-item_title {
+    height: 200px;
+    margin: 0 0 0;
+    overflow: hidden;
+    font-weight: bold;
+    font-size: 30px;
+    color: #0e0303;
+    z-index: 2;
+    position: relative;
+  }
+
+
+  .short-courses-item_title img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .short-courses-item_date-box{
+   margin-top: 0px;
+  }
+
+
+  .short-courses-item_date-box h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: rgb(4, 26, 84);
+  }
+  .short-courses-item_date-box p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    color: #000000;
+  }
+
+
+
+
+
