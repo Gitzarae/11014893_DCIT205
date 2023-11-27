@@ -3,11 +3,11 @@
 
 This website was created as a school project to redesign or improve the existing website of the Computer Science department at University of Ghana. It documents  the process of designing and developing a website for the computer science department. 
 
-#Purpose<hr>
+# Purpose<hr>
 
 The purpose of the website is to be the online presence and hub of information for all things related to the Computer Science department to current students, faculty, and visitors about the department's details. This project is aimed at allowing us students apply our web development skills in a practical context and showcase our understanding of computer science resources.
 
-#Overview<hr>
+# Overview<hr>
 The website will provide key information about the department's academics, research and faculty. Core sections will include;
 - Homepage
 - About
@@ -20,7 +20,7 @@ The website will provide key information about the department's academics, resea
 - Short Courses
 - Frequently Asked Questions
 
-#Setup Instructions<hr>
+# Setup Instructions<hr>
 
 1.  Navigate to the repository page on GitHub;
       <https://github.com/Gitzarae/11014893_DCIT205>
@@ -44,14 +44,14 @@ The website will provide key information about the department's academics, resea
 
 9. You can view files, run the website and make changes like any local project.
 
-#Author<hr>
+# Author<hr>
 Name: Adizatu Kubra Mohammed
 Student ID: 11014893
 
 # Screenshots<hr>
 These are the screenshots of the pages of the core sections.
 
-###Homepage: 
+### Homepage: 
 The homepage can be found on the nav bar at the header section.
 
 ![Homepage screenshot](IAimages/IAScreenshots/Homepage1.png) 
@@ -60,7 +60,7 @@ The homepage can be found on the nav bar at the header section.
 ![Homepage screenshot](IAimages/IAScreenshots/Homepage4.png)
 ![Homepage screenshot](IAimages/IAScreenshots/Homepage5.png)<hr>
 
-###About: 
+### About: 
 The *about* can be found on the nav bar at the header section.
 
 ![About screenshot](IAimages/IAScreenshots/Screenshot%20(16).png)
@@ -69,7 +69,7 @@ The *about* can be found on the nav bar at the header section.
 ![About screenshot](IAimages/IAScreenshots/Screenshot%20(21).png)
 ![About screenshot](IAimages/IAScreenshots/Screenshot%20(22).png)<hr>
 
-###Courses: 
+### Courses: 
 The *courses* can be found on the nav bar at the header section.
 
 ![Courses screenshot](IAimages/IAScreenshots/Screenshot%20(23).png)
@@ -78,14 +78,14 @@ The *courses* can be found on the nav bar at the header section.
 ![Courses screenshot](IAimages/IAScreenshots/Screenshot%20(26).png)
 ![Courses screenshot](IAimages/IAScreenshots/Screenshot%20(27).png)<hr>
 
-###Contact: 
+### Contact: 
 The *contact* can be found on the nav bar at the header section.
 
 ![Contact screenshot](IAimages/IAScreenshots/Screenshot%20(28).png)
 ![Contact screenshot](IAimages/IAScreenshots/Screenshot%20(29).png)
 ![Contact screenshot](IAimages/IAScreenshots/Screenshot%20(30).png)<hr>
 
-###Student projects: 
+### Student projects: 
 The *student projects* can be found on the homepage.
 
 ![Student project screenshot](IAimages/IAScreenshots/Screenshot%20(31).png)
@@ -93,7 +93,7 @@ The *student projects* can be found on the homepage.
 ![Student project screenshot](IAimages/IAScreenshots/Screenshot%20(33).png)
 ![Student project screenshot](IAimages/IAScreenshots/Screenshot%20(34).png)<hr>
 
-###Short courses: 
+### Short courses: 
 The *short courses* can be found on the homepage.
 
 ![Short courses screenshot](IAimages/IAScreenshots/Screenshot%20(35).png)
@@ -101,7 +101,7 @@ The *short courses* can be found on the homepage.
 ![Short courses screenshot](IAimages/IAScreenshots/Screenshot%20(37).png)
 ![Short courses screenshot](IAimages/IAScreenshots/Screenshot%20(38).png)<hr>
 
-###Events: 
+### Events: 
 The *events* can be found in the footer at the end of each page.
 
 ![Events screenshot](IAimages/IAScreenshots/Screenshot%20(39).png)
@@ -110,7 +110,7 @@ The *events* can be found in the footer at the end of each page.
 ![Events screenshot](IAimages/IAScreenshots/Screenshot%20(42).png)
 ![Events screenshot](IAimages/IAScreenshots/Screenshot%20(43).png)<hr>
 
-###Research: 
+### Research: 
 The *research* can be found in the footer at the end of each page.
 
 ![Events screenshot](IAimages/IAScreenshots/Screenshot%20(44).png)
@@ -119,7 +119,7 @@ The *research* can be found in the footer at the end of each page.
 ![Events screenshot](IAimages/IAScreenshots/Screenshot%20(47).png)
 ![Events screenshot](IAimages/IAScreenshots/Screenshot%20(48).png)<hr>
 
-###Staff Portfolio: 
+### Staff Portfolio: 
 The *staff portfolio* can be found in the footer at the end of each page.
 
 ![Staff portfolio screenshot](IAimages/IAScreenshots/Screenshot%20(49).png)
@@ -129,7 +129,7 @@ The *staff portfolio* can be found in the footer at the end of each page.
 ![Staff portfolio screenshot](IAimages/IAScreenshots/Screenshot%20(53).png)
 ![Staff portfolio screenshot](IAimages/IAScreenshots/Screenshot%20(54).png)<hr>
 
-###FAQs: 
+### FAQs: 
 The *FAQs* can be found in the footer at the end of each page.
 
 ![FAQs screenshot](IAimages/IAScreenshots/Screenshot%20(55).png)
@@ -137,7 +137,7 @@ The *FAQs* can be found in the footer at the end of each page.
 ![FAQs screenshot](IAimages/IAScreenshots/Screenshot%20(57).png)
 ![FAQs screenshot](IAimages/IAScreenshots/Screenshot%20(58).png)<hr>
 
-#Lessons learned<hr>
+# Lessons learned<hr>
 This project provided me with the opportunity to get more knowledge and skills in the planning and design of a multi-page website utilising HTML and CSS through regular research to study new skills. I gained insights into essential aspects such as employing proper semantics, and implementing effective layout techniques. A few challenges met was incoperating new skills learned into my project which took a number of tries to finally succeed. The process of developing this website enhanced my abilities in project management, front-end development, and designs including hovering effects offering valuable lessons that I can readily apply to upcoming projects. In summary, creating a functional website from inception to completion was a highly beneficial and enlightening learning experience.
 
 
