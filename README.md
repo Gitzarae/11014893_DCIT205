@@ -58,9 +58,7 @@ The homepage can be found on the nav bar at the header section.
 ![Homepage screenshot](IAimages/IAScreenshots/Hompage2.png)
 ![Homepage screenshot](IAimages/IAScreenshots/Homepage3.png)
 ![Homepage screenshot](IAimages/IAScreenshots/Homepage4.png)
-![Homepage screenshot](IAimages/IAScreenshots/Homepage5.png)
-
-This is the link to the homepage codes: [Homepage](index.html)<hr>
+![Homepage screenshot](IAimages/IAScreenshots/Homepage5.png)<hr>
 
 ###About: 
 The *about* can be found on the nav bar at the header section.
