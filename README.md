@@ -54,6 +54,95 @@ These are the screenshots of the pages of the core sections.
 ###Homepage: 
 The homepage can be found on the nav bar at the header section.
 
+![Homepage screenshot](IAimages/IAScreenshots/Homepage1.png) 
+![Homepage screenshot](IAimages/IAScreenshots/Hompage2.png)
+![Homepage screenshot](IAimages/IAScreenshots/Homepage3.png)
+![Homepage screenshot](IAimages/IAScreenshots/Homepage4.png)
+![Homepage screenshot](IAimages/IAScreenshots/Homepage5.png)
+
+This is the link to the homepage codes: [Homepage](index.html)<hr>
+
+###About: 
+The *about* can be found on the nav bar at the header section.
+
+![About screenshot](IAimages/IAScreenshots/Screenshot%20(16).png)
+![About screenshot](IAimages/IAScreenshots/Screenshot%20(19).png)
+![About screenshot](IAimages/IAScreenshots/Screenshot%20(20).png)
+![About screenshot](IAimages/IAScreenshots/Screenshot%20(21).png)
+![About screenshot](IAimages/IAScreenshots/Screenshot%20(22).png)<hr>
+
+###Courses: 
+The *courses* can be found on the nav bar at the header section.
+
+![Courses screenshot](IAimages/IAScreenshots/Screenshot%20(23).png)
+![Courses screenshot](IAimages/IAScreenshots/Screenshot%20(24).png)
+![Courses screenshot](IAimages/IAScreenshots/Screenshot%20(25).png)
+![Courses screenshot](IAimages/IAScreenshots/Screenshot%20(26).png)
+![Courses screenshot](IAimages/IAScreenshots/Screenshot%20(27).png)<hr>
+
+###Contact: 
+The *contact* can be found on the nav bar at the header section.
+
+![Contact screenshot](IAimages/IAScreenshots/Screenshot%20(28).png)
+![Contact screenshot](IAimages/IAScreenshots/Screenshot%20(29).png)
+![Contact screenshot](IAimages/IAScreenshots/Screenshot%20(30).png)<hr>
+
+###Student projects: 
+The *student projects* can be found on the homepage.
+
+![Student project screenshot](IAimages/IAScreenshots/Screenshot%20(31).png)
+![Student project screenshot](IAimages/IAScreenshots/Screenshot%20(32).png)
+![Student project screenshot](IAimages/IAScreenshots/Screenshot%20(33).png)
+![Student project screenshot](IAimages/IAScreenshots/Screenshot%20(34).png)<hr>
+
+###Short courses: 
+The *short courses* can be found on the homepage.
+
+![Short courses screenshot](IAimages/IAScreenshots/Screenshot%20(35).png)
+![Short courses screenshot](IAimages/IAScreenshots/Screenshot%20(36).png)
+![Short courses screenshot](IAimages/IAScreenshots/Screenshot%20(37).png)
+![Short courses screenshot](IAimages/IAScreenshots/Screenshot%20(38).png)<hr>
+
+###Events: 
+The *events* can be found in the footer at the end of each page.
+
+![Events screenshot](IAimages/IAScreenshots/Screenshot%20(39).png)
+![Events screenshot](IAimages/IAScreenshots/Screenshot%20(40).png)
+![Events screenshot](IAimages/IAScreenshots/Screenshot%20(41).png)
+![Events screenshot](IAimages/IAScreenshots/Screenshot%20(42).png)
+![Events screenshot](IAimages/IAScreenshots/Screenshot%20(43).png)<hr>
+
+###Research: 
+The *research* can be found in the footer at the end of each page.
+
+![Events screenshot](IAimages/IAScreenshots/Screenshot%20(44).png)
+![Events screenshot](IAimages/IAScreenshots/Screenshot%20(45).png)
+![Events screenshot](IAimages/IAScreenshots/Screenshot%20(46).png)
+![Events screenshot](IAimages/IAScreenshots/Screenshot%20(47).png)
+![Events screenshot](IAimages/IAScreenshots/Screenshot%20(48).png)<hr>
+
+###Staff Portfolio: 
+The *staff portfolio* can be found in the footer at the end of each page.
+
+![Staff portfolio screenshot](IAimages/IAScreenshots/Screenshot%20(49).png)
+![Staff portfolio screenshot](IAimages/IAScreenshots/Screenshot%20(50).png)
+![Staff portfolio screenshot](IAimages/IAScreenshots/Screenshot%20(51).png)
+![Staff portfolio screenshot](IAimages/IAScreenshots/Screenshot%20(52).png)
+![Staff portfolio screenshot](IAimages/IAScreenshots/Screenshot%20(53).png)
+![Staff portfolio screenshot](IAimages/IAScreenshots/Screenshot%20(54).png)<hr>
+
+###FAQs: 
+The *FAQs* can be found in the footer at the end of each page.
+
+![FAQs screenshot](IAimages/IAScreenshots/Screenshot%20(55).png)
+![FAQs screenshot](IAimages/IAScreenshots/Screenshot%20(56).png)
+![FAQs screenshot](IAimages/IAScreenshots/Screenshot%20(57).png)
+![FAQs screenshot](IAimages/IAScreenshots/Screenshot%20(58).png)<hr>
+
+#Lessons learned<hr>
+This project provided me with the opportunity to get more knowledge and skills in the planning and design of a multi-page website utilising HTML and CSS through regular research to study new skills. I gained insights into essential aspects such as employing proper semantics, and implementing effective layout techniques. A few challenges met was incoperating new skills learned into my project which took a number of tries to finally succeed. The process of developing this website enhanced my abilities in project management, front-end development, and designs including hovering effects offering valuable lessons that I can readily apply to upcoming projects. In summary, creating a functional website from inception to completion was a highly beneficial and enlightening learning experience.
+
+
 
 
 
