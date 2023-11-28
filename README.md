@@ -45,11 +45,11 @@ The website will provide key information about the department's academics, resea
 9. You can view files, run the website and make changes like any local project.
 
 # Author<hr>
-Name: Adizatu Kubra Mohammed
-Student ID: 11014893
+- Name: Adizatu Kubra Mohammed
+- Student ID: 11014893
 
 # Screenshots<hr>
-These are the screenshots of the pages of the core sections.
+These are the screenshots of the pages of the core sections. The screenshots demonstrate the final result of each page.
 
 ### Homepage: 
 The homepage can be found on the nav bar at the header section.
